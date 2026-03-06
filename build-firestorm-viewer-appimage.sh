@@ -73,7 +73,7 @@ export LD_LIBRARY_PATH="$HERE/usr/lib/x86_64-linux-gnu:$HERE/usr/lib/i386-linux-
 export GTK_PATH="$HERE/usr/lib/x86_64-linux-gnu/gtk-2.0"
 export GTK2_RC_FILES="$HERE/usr/share/themes/Default/gtk-2.0/gtkrc"
 
-# Processing and Video Optimizations (Ryzen 7 5700G / RX 6600)
+# Processing and Video Optimizations (AMD)
 export mesa_glthread=true
 export __GL_THREADED_OPTIMIZATIONS=1
 
