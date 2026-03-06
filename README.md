@@ -28,7 +28,7 @@ To run the build script, ensure you have the following:
     Set Permissions:
     Bash
 
-chmod +x build_firestorm_online_v1.sh
+chmod +x build-firestorm-viewer-appimage.sh
 
 Run the Build:
 Bash
