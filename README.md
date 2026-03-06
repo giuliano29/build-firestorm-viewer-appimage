@@ -47,4 +47,4 @@ The generated AppRun handles the following environment configurations automatica
 
     GTK_PATH: Pointed to internal engines for consistent UI rendering.
 
-Developed by: Giuliano (Noturno).
+Developed by: Giuliano
