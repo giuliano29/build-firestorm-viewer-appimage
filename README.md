@@ -23,7 +23,7 @@ To run the build script, ensure you have the following:
 
 🚀 Usage Instructions
 
-    Configure the Script: Open build_firestorm_online_v1.sh and ensure the SOURCE_DIR variable matches your extracted Firestorm folder name.
+    Configure the Script: Open build-firestorm-viewer-appimage.sh and ensure the SOURCE_DIR variable matches your extracted Firestorm folder name.
 
     Set Permissions:
     Bash
